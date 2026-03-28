@@ -1,3 +1,20 @@
+
+
+# DATA
+data/
+*.nii
+*.nii.gz
+
+# MODELS
+*.hdf5
+*.h5
+
+# PROCESSED
+processed/
+
+# SYSTEM FILES
+.DS_Store
+._*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
