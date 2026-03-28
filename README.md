@@ -67,9 +67,9 @@ https://www.med.upenn.edu/cbica/brats2020/data.html
 After downloading, organize the dataset as follows:
 
 data/
-└── BraTS-Data/
-├── imagesTr/
-└── labelsTr/
+  ── BraTS-Data/
+  ── imagesTr/
+  ── labelsTr/
 
 
 ---
