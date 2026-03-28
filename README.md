@@ -123,4 +123,10 @@ Add training pipeline
 Improve segmentation performance for small tumor regions
 Integrate visualization tools
 
+##  Results
+
+### Segmentation Output
+
+![Segmentation Result](assets/segmentation_result.png)
+
 
