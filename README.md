@@ -123,10 +123,12 @@ Add training pipeline
 Improve segmentation performance for small tumor regions
 Integrate visualization tools
 
-##  Results
+## 📸 Results
 
 ### Segmentation Output
-
 ![Segmentation Result](assets/segmentation_result.png)
+
+### Multi-view MRI
+![Multi View](assets/multi_view.png)
 
 
