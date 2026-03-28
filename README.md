@@ -53,6 +53,9 @@ The pretrained model enables efficient experimentation and evaluation without re
 
 ── .gitignore
 
+── assets
+
+
 
 
 ---
