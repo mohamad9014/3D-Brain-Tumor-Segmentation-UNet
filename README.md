@@ -38,14 +38,21 @@ The pretrained model enables efficient experimentation and evaluation without re
 ##  Project Structure
 
 3D-Brain-Tumor-Segmentation-UNet/
+
 │
-├── src/
-│ ├── segmentation_pipeline.py
-│ └── util.py
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+── src/
+
+ │ ── segmentation_pipeline.py
+
+ │ ── util.py
+
+
+── README.md
+
+── requirements.txt
+
+── .gitignore
+
 
 
 ---
